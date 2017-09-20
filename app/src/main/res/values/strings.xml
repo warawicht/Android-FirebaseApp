@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirebaseApp</string>
+    <string name="minimum_password">minimum_password</string>
+    <string name="auth_failed">auth_failed</string>
+</resources>
